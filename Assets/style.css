@@ -1,0 +1,76 @@
+
+nav{
+    background-color: blue;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.top{
+    color: white;
+    text-decoration: none;
+}
+
+.top:hover{
+    text-decoration: underline;
+}
+
+li{
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+.about{
+    margin-left: 800px;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+
+.title{
+    font-size: 15px;
+    text-align: center ;
+}
+
+button{
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    background: linear-gradient(45deg, rgb(202, 202, 237), rgb(79, 79, 227), rgb(43, 43, 240));
+    font-size: 30px;
+    color: white;
+}
+
+h2{
+    color: black;
+}
+
+footer{
+    background-color: blue;
+}
+
+#email{
+    margin-left: 350px;
+}
+
+.con{
+    padding: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.con:hover{
+    text-decoration: underline;
+}
